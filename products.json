@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "alfajores",
+        "plural": "alfajores",
+        "precioUnitario": 2,
+        "moneda": "USD"
+    },
+    {
+        "id": 2,
+        "nombre": "chesecake de limón",
+        "plural": "cheescakes de limón",
+        "precioUnitario": 4,
+        "moneda": "USD"
+    },
+    {
+        "id": 3,
+        "nombre": "postre de 3 leches",
+        "plural": "postres de 3 leches",
+        "precioUnitario": 6,
+        "moneda": "USD"
+    },
+    {
+        "id": 4,
+        "nombre": "torta de chocolate",
+        "plural": "tortas de chocolate",
+        "precioUnitario": 9,
+        "moneda": "USD"
+    }
+]
